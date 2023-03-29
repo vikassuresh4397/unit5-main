@@ -6,7 +6,7 @@ import { ProductList } from '../components/ProductList'
 import { Sidebar } from '../components/Sidebar'
 import styled from 'styled-components'
 
-export const Homepage = () => {
+export const MineralSupplementPage = () => {
   return (
     <DIV>
       <div className='sidebar'><Sidebar></Sidebar></div>
